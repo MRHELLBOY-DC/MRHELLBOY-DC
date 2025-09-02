@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Herman Durana  
 
-💻 Estudiante de Ingeniería en Sistemas | 🚀 Apasionada por el desarrollo web, bases de datos y proyectos de software.  
+💻 Estudiante de Ingeniería en Sistemas | 🚀 Apasionado por el desarrollo web, bases de datos y proyectos de software.  
 
 ## 🔧 Tecnologías que uso
 - Lenguajes: Java, Python, C++, JavaScript  
