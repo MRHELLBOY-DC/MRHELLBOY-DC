@@ -1,20 +1,24 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-     <meta charset="UFT-8">
-     <meta name="viewsport" content="width=device-width, initial-scale1.0">
+# 👋 ¡Hola! Soy Herman Durana  
 
-     <title>Adidas - Tienda Oficial</title>
-     <meta name="Author" content="Herman Durana">
-     <meta name="Description" content="Bienvenido a la tienda oficial Adidas, descubre lo ultimo en ropa deportiva y calzado.">
-     <meta name="theme-color" content="#000000">
+💻 Estudiante de Ingeniería en Sistemas | 🚀 Apasionada por el desarrollo web, bases de datos y proyectos de software.  
 
-     <meta property="og:url" content="https://joseco.github.io/meta-example/">
-     <meta property="og:tittle" content="Adidas - Tienda Oficial">
-     <meta property="og:image" content="https://joseco.github.io/meta-example/og-adidas-image.png">
-     <meta property="og:Description"content="Explora la tienda oficial de Adidas y consigue tus productos deportivos favoritos.">
-</head>
-<body>
-    <h1>Herman Durana</h1>
-</body>
-</html>html
+## 🔧 Tecnologías que uso
+- Lenguajes: Java, Python, C++, JavaScript  
+- Bases de datos: PostgreSQL, MySQL  
+- Herramientas: Git, Docker, VirtualBox, Processing  
+
+## 📌 Proyectos destacados
+- [HermanPlace](porsubir) – Marketplace con Node.js y PostgreSQL  
+
+## 🌱 Actualmente aprendiendo
+- Diseño web responsive (HTML & CSS)  
+- Seguridad de la Información  
+- Planificación estratégica de proyectos  
+
+## 📫 Cómo contactarme
+- ✉️ Email: duranaherman@gmail.com 
+- 💼 LinkedIn: [en proceso)  
+
+---
+⭐️ _"El conocimiento se multiplica cuando se comparte."_  
+
